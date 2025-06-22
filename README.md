@@ -23,7 +23,6 @@ Gosto de colocar a mão na massa e aprender criando projetos reais — seja repl
 | 🖥️ **Controle POS** | Sistema para gerenciar dispositivos POS — frontend no GitHub Pages, backend no Render, MySQL no Railway | [Ver projeto](https://digsix.github.io/frontendControlePOSDevice/) |
 | 🕹️ **Pong3JS** | Jogo clássico recriado com movimentação 3D no navegador | [Ver jogo](https://digsix.github.io/Pong3JS/) |
 | 💘 **FallingInLove** | Projeto pessoal feito do zero como presente, sem frameworks | [Ver visual](https://digsix.github.io/FallingInLove/) |
-| 🌐 **Meu Portfólio** | Onde reúno todos esses projetos com uma pegada simples e direta | [Ver portfólio](https://digsix.github.io/Portifolio/) |
 
 ---
 
