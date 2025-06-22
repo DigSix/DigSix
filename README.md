@@ -1,4 +1,4 @@
-#👋 Opa, me chamo Diogo (DigSix) Viana
+# 👋 Opa, me chamo Diogo (DigSix) Viana
 
 Atualmente sou estudante de Ciência da Computação na UNIVALI, atuo como Técnico de TI no Beto Carrero World 🎡 e estou construindo meu caminho como desenvolvedor, com foco em fullstack.
 Gosto de colocar a mão na massa e aprender criando projetos reais — seja replicando algo que vi na teoria da faculdade ou testando uma ideia do zero. Tenho bastante famialiridade com HTML, CSS, JavaScript, C++, C# e MySQL e estou me aventurando com APIs, banco de dados e 3D com Three.js.
