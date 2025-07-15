@@ -5,7 +5,7 @@ Gosto de colocar a mão na massa e aprender criando projetos reais — seja repl
 
 ---
 
-## 💡 O que ando fazendo
+##  O que ando fazendo
 
 - 🎓 Faculdade (Ciência da Computação — 5º período)
 - 💼 Técnico de TI (Mais na parte de suporte e infra)
@@ -16,17 +16,17 @@ Gosto de colocar a mão na massa e aprender criando projetos reais — seja repl
 
 ---
 
-## 💼 Meus projetos favoritos até agora
+## Meus projetos favoritos até agora
 
 | Projeto | Descrição | Link |
 |--------|-----------|------|
-| 🖥️ **Controle POS** | Sistema para gerenciar dispositivos POS — frontend no GitHub Pages, backend no Render, MySQL no Railway | [Ver projeto](https://digsix.github.io/frontendControlePOSDevice/) |
-| 🕹️ **Pong3JS** | Jogo clássico recriado com movimentação 3D no navegador | [Ver jogo](https://digsix.github.io/Pong3JS/) |
+|  **Controle POS** | Sistema para gerenciar dispositivos POS — frontend no GitHub Pages, backend no Render, MySQL no Railway | [Ver projeto](https://digsix.github.io/frontendControlePOSDevice/) |
+|  **Pong3JS** | Jogo clássico recriado com movimentação 3D no navegador | [Ver jogo](https://digsix.github.io/Pong3JS/) |
 | 💘 **FallingInLove** | Projeto pessoal feito do zero como presente, sem frameworks | [Ver visual](https://digsix.github.io/FallingInLove/) |
 
 ---
 
-## 🧰 Tecnologias que uso com frequência
+## Tecnologias que uso com frequência
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -39,4 +39,4 @@ Gosto de colocar a mão na massa e aprender criando projetos reais — seja repl
 
 ---
 
-## 📫 Acesse meu [Portfólio](https://digsix.github.io/Portfolio/) e entre em contato comigo
+## Acesse meu [Portfólio](https://digsix.github.io/Portfolio/) e entre em contato comigo
