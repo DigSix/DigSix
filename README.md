@@ -7,7 +7,7 @@ Gosto de colocar a mão na massa e aprender criando projetos reais — seja repl
 
 ##  O que ando fazendo
 
--  Faculdade (Ciência da Computação — 5º período)
+-  Faculdade (Ciência da Computação — 6º período)
 -  Técnico de TI (Mais na parte de suporte e infra)
 - Como apoio, utilizo IA o que agiliza muito meu aprendizado, é claro de forma consciente
 
