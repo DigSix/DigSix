@@ -7,12 +7,9 @@ Gosto de colocar a mão na massa e aprender criando projetos reais — seja repl
 
 ##  O que ando fazendo
 
-- 🎓 Faculdade (Ciência da Computação — 5º período)
-- 💼 Técnico de TI (Mais na parte de suporte e infra)
-- 💻 Criando projetos pessoais
-- 🎯 Estudando backend
-- 🌐 Aprendendo a fazer deploy
-- 🤖 Como apoio, utilizo IA o que agiliza muito meu aprendizado, é claro de forma consciente
+-  Faculdade (Ciência da Computação — 5º período)
+-  Técnico de TI (Mais na parte de suporte e infra)
+- Como apoio, utilizo IA o que agiliza muito meu aprendizado, é claro de forma consciente
 
 ---
 
@@ -22,7 +19,7 @@ Gosto de colocar a mão na massa e aprender criando projetos reais — seja repl
 |--------|-----------|------|
 |  **Controle POS** | Sistema para gerenciar dispositivos POS — frontend no GitHub Pages, backend no Render, MySQL no Railway | [Ver projeto](https://digsix.github.io/frontendControlePOSDevice/) |
 |  **Pong3JS** | Jogo clássico recriado com movimentação 3D no navegador | [Ver jogo](https://digsix.github.io/Pong3JS/) |
-| 💘 **FallingInLove** | Projeto pessoal feito do zero como presente, sem frameworks | [Ver visual](https://digsix.github.io/FallingInLove/) |
+|  **FallingInLove** | Projeto pessoal feito do zero como presente, sem frameworks | [Ver visual](https://digsix.github.io/FallingInLove/) |
 
 ---
 
