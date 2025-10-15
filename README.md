@@ -37,4 +37,4 @@ Lately, I’ve been diving into IA, APIs, Databases, Microservices and 3D with T
 
 ---
 
-## Check out my ###[Portfolio](https://digsix.github.io/Portfolio/) ##and get in touch with me
+## Check out my [Portfolio](https://digsix.github.io/Portfolio/) and get in touch with me
