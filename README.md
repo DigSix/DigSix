@@ -1,7 +1,7 @@
-# 👋 Opa, me chamo Diogo (DigSix) Viana
+# 👋 Hey! I'm Diogo (DigSix) Viana
 
-Atualmente sou estudante de Ciência da Computação na UNIVALI, atuo como Técnico de TI no Beto Carrero World 🎡 e estou construindo meu caminho como desenvolvedor, com foco em fullstack.
-Gosto de colocar a mão na massa e aprender criando projetos reais — seja replicando algo que vi na teoria da faculdade ou testando uma ideia do zero. Tenho bastante famialiridade com HTML, CSS, JavaScript, C++, C# e MySQL e estou me aventurando com APIs, banco de dados e 3D com Three.js.
+Actualy i am Computer Science student at UNIVALI, working as Software Support at Cootravale  e estou construindo meu caminho como desenvolvedor, com foco em fullstack.
+Gosto de colocar a mão na massa e aprender criando projetos reais — seja replicando algo que vi na teoria da faculdade ou testando uma ideia do zero. Estou me aventurando com APIs, banco de dados e 3D com Three.js.
 
 ---
 
@@ -9,7 +9,7 @@ Gosto de colocar a mão na massa e aprender criando projetos reais — seja repl
 
 -  Faculdade (Ciência da Computação — 6º período)
 -  Técnico de TI (Mais na parte de suporte e infra)
-- Como apoio, utilizo IA o que agiliza muito meu aprendizado, é claro de forma consciente
+-  Como apoio, utilizo IA o que agiliza muito meu aprendizado, é claro de forma consciente
 
 ---
 
