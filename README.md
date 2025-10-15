@@ -1,29 +1,30 @@
 # 👋 Hey! I'm Diogo (DigSix) Viana
 
-Actualy i am Computer Science student at UNIVALI, working as Software Support at Cootravale  e estou construindo meu caminho como desenvolvedor, com foco em fullstack.
-Gosto de colocar a mão na massa e aprender criando projetos reais — seja replicando algo que vi na teoria da faculdade ou testando uma ideia do zero. Estou me aventurando com APIs, banco de dados e 3D com Three.js.
+I'm currently a Computer Science student at UNIVALI, working as Software Support at Cootravale, and building my path as a fullstack developer.
+I love getting my hands dirty and learning by creating real projects — whether it's replicating something I saw in class or testing a random idea from scratch.
+Lately, I’ve been diving into IA, APIs, Databases, Microservices and 3D with Three.js.
 
 ---
 
-##  O que ando fazendo
+##  What I’m up to
 
--  Faculdade (Ciência da Computação — 6º período)
--  Técnico de TI (Mais na parte de suporte e infra)
--  Como apoio, utilizo IA o que agiliza muito meu aprendizado, é claro de forma consciente
+-  College (Computer Science — 6th semester)
+-  IT Support Technician (Focused on software support)
+-  I use AI as a helper to speed up my learning process — responsibly, of course
 
 ---
 
-## Meus projetos favoritos até agora
+## My favorite projects
 
-| Projeto | Descrição | Link |
+| Project | Description | Link |
 |--------|-----------|------|
-|  **Controle POS** | Sistema para gerenciar dispositivos POS — frontend no GitHub Pages, backend no Render, MySQL no Railway | [Ver projeto](https://digsix.github.io/frontendControlePOSDevice/) |
-|  **Pong3JS** | Jogo clássico recriado com movimentação 3D no navegador | [Ver jogo](https://digsix.github.io/Pong3JS/) |
-|  **FallingInLove** | Projeto pessoal feito do zero como presente, sem frameworks | [Ver visual](https://digsix.github.io/FallingInLove/) |
+|  **Controle POS** | System to manage POS devices — frontend on GitHub Pages, backend on Render, MySQL on Railway | [View project](https://digsix.github.io/frontendControlePOSDevice/) |
+|  **Pong3JS** | Classic Pong game recreated with 3D movement in the browser | [View project](https://digsix.github.io/Pong3JS/) |
+|  **FallingInLove** | Personal project made from scratch as a gift, zero frameworks used | [View project](https://digsix.github.io/FallingInLove/) |
 
 ---
 
-## Tecnologias que possuo familiaridade
+## Technologies I’m familiar with
 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -36,4 +37,4 @@ Gosto de colocar a mão na massa e aprender criando projetos reais — seja repl
 
 ---
 
-## Acesse meu [Portfólio](https://digsix.github.io/Portfolio/) e entre em contato comigo
+## Check out my ###[Portfolio](https://digsix.github.io/Portfolio/) ##and get in touch with me
