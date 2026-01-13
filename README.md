@@ -13,20 +13,19 @@ I enjoy understanding how systems work end-to-end — from infrastructure and co
 
 I started my career outside of tech and transitioned into IT through hands-on experience. That path shaped how I approach software: solving real problems, not just writing code.
 
-### Tech Stack
+### My Stack
 
-**Languages & Tools**
+**Backend**
 - Python
 - Node.js
 - SQL
-- Git
 
 **Frontend**
-- Svelte / SvelteKit
+- SvelteKit
 
-**Infrastructure**
-- Docker
-- Basic Linux & networking concepts
+**Infrastructure & Tools**
+- Docker, Git, Nginx
+- Basic Linux, networking concepts
 
 > I prioritize tools that are simple, composable, and easy to solo dev.
 
