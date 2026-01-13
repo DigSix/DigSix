@@ -13,13 +13,6 @@ I enjoy understanding how systems work end-to-end — from infrastructure and co
 
 I started my career outside of tech and transitioned into IT through hands-on experience. That path shaped how I approach software: solving real problems, not just writing code.
 
-### Current Focus
-
-- Systems analysis and IT support  
-- Automation of repetitive tasks  
-- Small and practical software solutions  
-- Understanding business rules and translating them into code  
-
 ### Tech Stack
 
 **Languages & Tools**
