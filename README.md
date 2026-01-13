@@ -1,6 +1,6 @@
-# Hello there!👋
+## Hello there!👋
 
-## [Diogo Viana](https://www.linkedin.com/in/diogo0110)
+### [Diogo Viana](https://www.linkedin.com/in/diogo0110)
 
 Developer focused on systems analysis, automation, and practical problem-solving through software.
 
@@ -8,7 +8,7 @@ I enjoy understanding how systems work end-to-end — from infrastructure and co
 
 
 
-## About Me
+### About Me
 
 - Computer Science student at Universidade do Vale do Itajaí (UNIVALI)
 - Background in IT support, infrastructure, and user assistance
@@ -19,7 +19,7 @@ I started my career outside of tech and transitioned into IT through hands-on ex
 
 
 
-## Current Focus
+### Current Focus
 
 - Systems analysis and IT support  
 - Automation of repetitive tasks  
@@ -30,7 +30,7 @@ Most projects here are experiments, utilities, or learning artifacts — each on
 
 
 
-## Tech Stack
+### Tech Stack
 
 **Languages & Tools**
 - Python
@@ -49,7 +49,7 @@ Most projects here are experiments, utilities, or learning artifacts — each on
 
 
 
-## Education
+### Education
 
 - **B.Sc. in Computer Science**  
   Universidade do Vale do Itajaí — 2023 → 2028
@@ -59,6 +59,6 @@ Most projects here are experiments, utilities, or learning artifacts — each on
 
 
 
-## Links
+### Links
 
 - 🌐 Portfolio: https://digsix.com.br  
