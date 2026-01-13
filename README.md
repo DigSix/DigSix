@@ -1,6 +1,6 @@
 ### Hello there!
 
-I'm [Diogo](https://www.linkedin.com/in/diogo0110) developer focused on systems analysis, automation, and practical problem-solving through software.
+I'm [Diogo](https://www.linkedin.com/in/diogo0110), a developer focused on systems analysis, automation, and practical problem-solving through software.
 
 I enjoy understanding how systems work end-to-end — from infrastructure and containers to business rules and automation logic. My work is guided by clarity, simplicity, and usefulness.
 
