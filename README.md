@@ -6,8 +6,6 @@ Developer focused on systems analysis, automation, and practical problem-solving
 
 I enjoy understanding how systems work end-to-end — from infrastructure and containers to business rules and automation logic. My work is guided by clarity, simplicity, and usefulness.
 
-
-
 ### About Me
 
 - Computer Science student at Universidade do Vale do Itajaí (UNIVALI)
@@ -17,18 +15,12 @@ I enjoy understanding how systems work end-to-end — from infrastructure and co
 
 I started my career outside of tech and transitioned into IT through hands-on experience. That path shaped how I approach software: solving real problems, not just writing code.
 
-
-
 ### Current Focus
 
 - Systems analysis and IT support  
 - Automation of repetitive tasks  
 - Small and practical software solutions  
 - Understanding business rules and translating them into code  
-
-Most projects here are experiments, utilities, or learning artifacts — each one teaching something real.
-
-
 
 ### Tech Stack
 
@@ -46,8 +38,6 @@ Most projects here are experiments, utilities, or learning artifacts — each on
 - Basic Linux & networking concepts
 
 > I prioritize tools that are simple, composable, and easy to solo dev.
-
-
 
 ### Education
 
