@@ -1,41 +1,70 @@
-# 👋 Hey! I'm Diogo (DigSix) Viana
+# Hello there!
 
-I'm currently a Computer Science student at UNIVALI, working as Software Support at Cootravale, and building my path as a fullstack developer.
-I love getting my hands dirty and learning by creating real projects — whether it's replicating something I saw in class or testing a random idea from scratch.
-Lately, I’ve been diving into IA, APIs, Databases, Microservices and 3D with Three.js.
+## Diogo Viana
 
----
+Developer focused on systems analysis, automation, and practical problem-solving through software.
 
-##  What I’m up to
-
--  College (Computer Science — 6th semester)
--  IT Support Technician (Focused on software support)
--  I use AI as a helper to speed up my learning process — responsibly, of course
+I enjoy understanding how systems work end-to-end — from infrastructure and containers to business rules and automation logic. My work is guided by clarity, simplicity, and usefulness.
 
 ---
 
-## My favorite projects
+## About Me
 
-| Project | Description | Link |
-|--------|-----------|------|
-|  **Controle POS** | System to manage POS devices — frontend on GitHub Pages, backend on Render, MySQL on Railway | [View project](https://digsix.github.io/frontendControlePOSDevice/) |
-|  **Pong3JS** | Classic Pong game recreated with 3D movement in the browser | [View project](https://digsix.github.io/Pong3JS/) |
-|  **FallingInLove** | Personal project made from scratch as a gift, zero frameworks used | [View project](https://digsix.github.io/FallingInLove/) |
+- Computer Science student at Universidade do Vale do Itajaí (UNIVALI)
+- Background in IT support, infrastructure, and user assistance
+- Currently working with system support and internal IT processes
+- Strong interest in automation, backend logic, and system reliability
 
----
-
-## Technologies I’m familiar with
-
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+I started my career outside of tech and transitioned into IT through hands-on experience. That path shaped how I approach software: solving real problems, not just writing code.
 
 ---
 
-## Check out my [Portfolio](https://digsix.github.io/Portfolio/) and get in touch with me
+## Current Focus
+
+- Systems analysis and IT support  
+- Automation of repetitive tasks  
+- Small and practical software solutions  
+- Understanding business rules and translating them into code  
+
+Most projects here are experiments, utilities, or learning artifacts — each one teaching something real.
+
+---
+
+## Tech Stack
+
+**Languages & Tools**
+- Python
+- Node.js
+- SQL
+- Git
+
+**Frontend**
+- Svelte / SvelteKit
+
+**Infrastructure**
+- Docker
+- Basic Linux & networking concepts
+
+I prioritize tools that are simple, composable, and easy to solo dev.
+
+---
+
+## Education
+
+- **B.Sc. in Computer Science**  
+  Universidade do Vale do Itajaí — 2023 → 2028
+
+- **English Course**  
+  KNN Idiomas — 2015 → 2019
+
+---
+
+## Links
+
+- 🌐 Portfolio: https://digsix.com.br  
+- 💼 LinkedIn: https://www.linkedin.com/in/diogo0110  
+- 📧 Email: diogo.viana@edu.univali.br  
+
+---
+
+> I value clean solutions, clear reasoning, and learning by building.
