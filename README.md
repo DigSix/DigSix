@@ -49,4 +49,4 @@ I started my career outside of tech and transitioned into IT through hands-on ex
 
 ### Links
 
-- 🌐 Portfolio: https://digsix.com.br  
+- 🌐 [Portfolio] (https://digsix.com.br)  
