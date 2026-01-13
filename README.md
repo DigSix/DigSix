@@ -1,12 +1,12 @@
-# Hello there!
+# Hello there!👋
 
-## Diogo Viana
+## [Diogo Viana](https://www.linkedin.com/in/diogo0110)
 
 Developer focused on systems analysis, automation, and practical problem-solving through software.
 
 I enjoy understanding how systems work end-to-end — from infrastructure and containers to business rules and automation logic. My work is guided by clarity, simplicity, and usefulness.
 
----
+
 
 ## About Me
 
@@ -17,7 +17,7 @@ I enjoy understanding how systems work end-to-end — from infrastructure and co
 
 I started my career outside of tech and transitioned into IT through hands-on experience. That path shaped how I approach software: solving real problems, not just writing code.
 
----
+
 
 ## Current Focus
 
@@ -28,7 +28,7 @@ I started my career outside of tech and transitioned into IT through hands-on ex
 
 Most projects here are experiments, utilities, or learning artifacts — each one teaching something real.
 
----
+
 
 ## Tech Stack
 
@@ -45,9 +45,9 @@ Most projects here are experiments, utilities, or learning artifacts — each on
 - Docker
 - Basic Linux & networking concepts
 
-I prioritize tools that are simple, composable, and easy to solo dev.
+> I prioritize tools that are simple, composable, and easy to solo dev.
 
----
+
 
 ## Education
 
@@ -57,14 +57,8 @@ I prioritize tools that are simple, composable, and easy to solo dev.
 - **English Course**  
   KNN Idiomas — 2015 → 2019
 
----
+
 
 ## Links
 
 - 🌐 Portfolio: https://digsix.com.br  
-- 💼 LinkedIn: https://www.linkedin.com/in/diogo0110  
-- 📧 Email: diogo.viana@edu.univali.br  
-
----
-
-> I value clean solutions, clear reasoning, and learning by building.
