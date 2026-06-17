@@ -8,7 +8,7 @@ I enjoy understanding how systems work end-to-end — from infrastructure and co
 
 - Computer Science student at Universidade do Vale do Itajaí (UNIVALI)
 - Background in IT support, infrastructure, and user assistance
-- Currently working with system support and internal IT processes
+- Currently working with data analysys
 - Strong interest in automation, backend logic, and system reliability
 
 I started my career outside of tech and transitioned into IT through hands-on experience. That path shaped how I approach software: solving real problems, not just writing code.
@@ -17,17 +17,19 @@ I started my career outside of tech and transitioned into IT through hands-on ex
 
 **Backend**
 - Python
+- R
 - Node.js
-- SQL
+- Postgres
 
 **Frontend**
 - SvelteKit
+- Python
 
 **Infrastructure & Tools**
-- Docker, Git, Nginx
+- Docker, Git, Nginx, Traefik
 - Basic Linux, networking concepts
 
-> I prioritize tools that are simple, composable, and easy to solo dev.
+> I prioritize tools that are simple, composable, and easy to solo dev (or small teams).
 
 ### Education
 
